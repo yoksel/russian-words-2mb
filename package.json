@@ -1,0 +1,11 @@
+{
+  "name": "russian-words-2mb",
+  "version": "1.0.0",
+  "description": "Big list of russian words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoksel",
+  "license": "ISC"
+}
